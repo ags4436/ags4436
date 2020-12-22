@@ -7,8 +7,8 @@
 
 ## Connect with me:
 
-[<img height="42" width="42" src="https://github.com/ags4436/ags4436/blob/main/icons8-instagram-48.png" />][Instagram]
-[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/linkedin-bounce.gif" />][LinkedIn]
+[<img height="42" width="42" src="https://github.com/ags4436/ags4436/blob/main/icons8-instagram.gif" />][Instagram]
+[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/linkedin-bounce1.gif" />][LinkedIn]
 
 
 ## Languages and Tools:
