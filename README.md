@@ -8,7 +8,7 @@
 ## Connect with me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/linkedin-bounce.gif" />][LinkedIn]
 
 
 ## Languages and Tools:
