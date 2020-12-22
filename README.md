@@ -7,8 +7,9 @@
 
 ## Connect with me:
 
-[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/icons8-instagram.gif" />][Instagram]
 [<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/linkedin-bounce1.gif" />][LinkedIn]
+[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/icons8-instagram.gif" />][Instagram]
+[<img height="32" width="32" src="https://github.com/ags4436/ags4436/blob/main/twitter-circled-shake.gif" />][twitter]
 
 
 ## Languages and Tools:
@@ -33,3 +34,5 @@
 [LinkedIn]:	https://grabify.link/C0280E
 
 [Instagram]:https://grabify.link/0HPYX1
+
+[twitter]:#
