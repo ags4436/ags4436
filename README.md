@@ -1,4 +1,4 @@
-# Aakash-Gouri-Shankar
+# Hi I'm AGS
 - 🔭 I’m currently working on ***secret project*** 
 - 🌱 Exploring Multiple Dimensions of the field
 - 🏢 DevDominus
