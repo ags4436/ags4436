@@ -27,12 +27,12 @@
 <br>
 
 ## Hack The Box (Passive)
-<img src="http://www.hackthebox.eu/badge/image/394258" alt="Hack The Box">
+<script src="https://www.hackthebox.eu/badge/394258"></script>
 
 
 
 [LinkedIn]:	https://grabify.link/C0280E
 
-[Instagram]:https://grabify.link/0HPYX1
+[Instagram]:https://www.instagram.com/buff3r0verflow/
 
 [twitter]:#
