@@ -26,8 +26,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/ags4436/ags4436/blob/main/gc1CWg37.jpg">
 <br>
 
-## Hack The Box (Passive)
-<script src="https://www.hackthebox.eu/badge/394258"></script>
+## Hack The Box - Hacker
+<img src="http://www.hackthebox.eu/badge/image/394258" alt="Hack The Box">
 
 
 
